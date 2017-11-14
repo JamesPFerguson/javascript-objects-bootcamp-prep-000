@@ -7,5 +7,5 @@ console.log(meals4.breakfast)
 var playlist = {
   FleetFoxes: 'Mykonos',
   Bob: 'London Bridge' ,
-  Yeasaye: 'Sunrise'
+  Yeasayer: 'Sunrise'
 }
