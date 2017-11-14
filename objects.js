@@ -5,5 +5,7 @@ var meals4 = new Object ({ breakfast: "oatmeals"});
 console.log(meals4.breakfast)
 
 var playlist = {
-  fleetFoxes: 
+  FleetFoxes: 'Mykonos',
+  Bob: 'London Bridge' ,
+  Yeasaye: 'Sunrise'
 }
